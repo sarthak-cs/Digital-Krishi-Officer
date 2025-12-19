@@ -33,7 +33,7 @@ A **full-stack, AI-powered farming assistant** designed for Indian farmers. Prov
 1. **Clone the repository**
 ```bash
 git clone https://github.com/your-username/digital-krishi-officer.git
-cd digital-krishi-officer/backend
+cd digital-krishi-officer
 ```
 2. **Create a virtual environment**
 ```
